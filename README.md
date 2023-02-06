@@ -1,5 +1,5 @@
 # Seja Bem-vinda(o)!!
-* Me chamo Vinícios, Sou atualmente desenvolvedor full-stack, novato na área de tecnologia, buscando sempre novas aprendizagens e desafios.
+* Me chamo Vinícios, Sou atualmente desenvolvedor full-stack, buscando sempre novas aprendizagens e desafios.
 
 * Formado em 2022 como desenvolvedor full-stack pelo bootcamp proporcionado pela Driven Education, onde pude realizar mais de 20 projetos em 9 meses, utilizando tecnologias como Javascript, React.js, Node.js, PostgreSQL, MongoDB.
 
@@ -29,5 +29,9 @@
 
     ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+    
+  * Básico
+     
+    ![Python](https://img.shields.io/badge/-python-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
     
 * Você pode entrar em contato comigo no <a href="https://www.linkedin.com/in/viniciospires/" target="_blank"> Linkedin </a> e/ou no <a href="contato.viniciospires@gmail.com" target="blank_"> Gmail </a>.
