@@ -32,6 +32,6 @@
     
   * Básico
      
-    ![Python](https://img.shields.io/badge/-python-%23E5E5E5?style=for-the-badge&logo=python&logoColor=058a5e)
+    ![Python](https://img.shields.io/badge/-python-%23316192?style=for-the-badge&logo=python&logoColor=058a5e)
     
 * Você pode entrar em contato comigo no <a href="https://www.linkedin.com/in/viniciospires/" target="_blank"> Linkedin </a> e/ou no <a href="contato.viniciospires@gmail.com" target="blank_"> Gmail </a>.
