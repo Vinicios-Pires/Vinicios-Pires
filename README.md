@@ -32,6 +32,6 @@
     
   * Outras Tecnologias
      
-    ![Python](https://img.shields.io/badge/-python-%#00264e?style=for-the-badge&logo=python&logoColor=ffdc3e)
+    ![Python](https://img.shields.io/badge/-python-%00264e?style=for-the-badge&logo=python&logoColor=ffdc3e)
     
 * Você pode entrar em contato comigo no <a href="https://www.linkedin.com/in/viniciospires/" target="_blank"> Linkedin </a> e/ou no <a href="contato.viniciospires@gmail.com" target="blank_"> Gmail </a>.
