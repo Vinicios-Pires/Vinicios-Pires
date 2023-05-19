@@ -30,8 +30,5 @@
     ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
     
-  * Outras Tecnologias
-     
-    ![Python](https://img.shields.io/badge/-python-%23316192?style=for-the-badge&logo=python&logoColor=ffdc3e)
     
 * Você pode entrar em contato comigo no <a href="https://www.linkedin.com/in/viniciospires/" target="_blank"> Linkedin </a> e/ou no <a href="contato.viniciospires@gmail.com" target="blank_"> Gmail </a>.
