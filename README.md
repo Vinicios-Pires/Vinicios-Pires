@@ -1,5 +1,6 @@
-# Seja Bem-vinda(o)!!
-* Me chamo Vinícios, Sou atualmente desenvolvedor fullstack, buscando sempre novas aprendizagens e desafios.
+# Olá!
+* Atualmente, sou desenvolvedor web fullstack com experiência no desenvolvimento de sistemas ERP. Meu trabalho inclui a implementação/manutenção de funcionalidades como contas a pagar, contas a receber, emissão de notas fiscais, entre outras.
+* Meu principal objetivo como desenvolvedor é entregar soluções escaláveis e otimizadas, sempre priorizando um código limpo e uma arquitetura bem estruturada.
 
 * Habilidades
   * Front-end
